@@ -1,6 +1,5 @@
 ### ❤️ Olá! Eu sou a Maria! ❤️ 
 Sou nova na área de programação e estou aprendendo a cada dia!
-No momento faço curso técnico de desenvolvimento de sistemas na instituição Etec.
 
 ## Tecnologias que estou estudando:
 <div style="display: inline-block"><br>
